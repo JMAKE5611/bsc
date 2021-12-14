@@ -1,0 +1,9 @@
+body {
+	background: #0a0a0a!important;
+	color: #fff!important;
+	padding: 15%!important;
+}
+
+input#address{
+	max-width: 350px;
+}
